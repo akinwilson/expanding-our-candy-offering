@@ -1,4 +1,4 @@
-figs/*
+**.png
 .ipynb_checkpoints/
 Pipfile
 Pipfile.lock
