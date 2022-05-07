@@ -4,7 +4,7 @@ As requested, here is the notebook to reproduce all the experiments performed du
 <br>
 Please see the notebook:
 <br>
-investigation.ipynb
+`investigation.ipynb`
 <br>
 **Note**
 <br>
